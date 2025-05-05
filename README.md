@@ -3,9 +3,9 @@ The paper Integrating ChatGPT into Secure Hospital Networks: A Case Study on Imp
 
 The dataset is contained in `data.csv` inside the Data Folder. 
 
-The pdf file includes the original paper 
+To visualize and see the initial exploraotry/pre-processing work, run the `data_eda.ipynb` inside the Code folder. 
+
+To view the replication of the S-KD and D-KD  models, run the `paper_code.ipynb`
 
 
-To visualize and see the initial exploraotry/pre-processing work, run `python3 data_eda.py` inside the Code folder. 
-
-To view the replication of the S-KD and D-KD  models, run `python3 paper_code.py`
+The pdf file includes the original paper . 
