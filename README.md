@@ -7,5 +7,6 @@ To visualize and see the initial exploraotry/pre-processing work, run the `data_
 
 To view the replication of the S-KD and D-KD  models, run the `paper_code.ipynb`
 
+To view the PyHealth code and datasets, view the PyHealth Folder. 
 
 The PDF file includes a link to the original paper, which can also be viewed [here](https://arxiv.org/pdf/2402.09358). 
